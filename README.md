@@ -295,7 +295,7 @@ body{
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7251c776-fd34-48fc-af81-f37e1e0cfbc8" />
 
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/080b6662-5934-448e-a4d7-df50b1024f2c" />
+<img width="1913" height="1199" alt="image" src="https://github.com/user-attachments/assets/6958ca87-e372-4e20-ad0d-82b032a77596" />
 
 
 
